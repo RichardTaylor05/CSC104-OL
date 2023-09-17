@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(69, 71, 71);
+  }
+ /* this h3 is for the names of the articles */
+  h3 {color:rgb(253, 163, 208)}
+
+  h2 {color:rgba(188, 122, 250, 0.89)}
+  
+  p{ color:rgb(238, 153, 122)}
